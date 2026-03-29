@@ -1,0 +1,13 @@
+.card {
+  background-color: white;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 1.5rem;
+  min-width: 250px;
+  flex: 1;
+}
+
+.card h3 {
+  margin-bottom: 1rem;
+  color: #333;
+}

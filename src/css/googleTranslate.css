@@ -1,0 +1,10 @@
+#google_translate_element {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: #fff;
+  border-radius: 8px;
+  padding: 4px 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
